@@ -1,0 +1,10 @@
+body {
+    background-image: url(../img/fondo001.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+main img {
+    height: 200px;
+}
